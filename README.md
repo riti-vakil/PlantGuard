@@ -15,11 +15,11 @@
 
 ## ⭐Snippet of Web App :
 #### Main page
-<img src = "demo_images/1.png" > <br>
+<img src = "demo_images/main.png" > <br>
 #### AI Engine 
-<img src = "demo_images/2.png"> <br>
+<img src = "demo_images/ai.png"> <br>
 #### Results Page 
-<img src = "demo_images/3.png"> <br>
+<img src = "demo_images/result.png"> <br>
 #### Supplements/Fertilizer  Store
-<img src = "demo_images/4.JPG"> <br>
+<img src = "demo_images/supp.JPG"> <br>
 
